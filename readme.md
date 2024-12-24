@@ -3,6 +3,11 @@
 
 Pada Repository tersebut berisi dokumentasi pengerjaan saya pada saat memberikan layanan server terhadap WEB yang sebelumnya saya buat.
 
+## Spesifikasi Server
+- Ubuntu Server 24.04.1
+- Processor 4 Core
+- Penyimpanan 30 GB
+
 ## Daftar Isi
 - [Layanan Server Nginx](#1-layanan-nginx)
 - [Layanan Server Apache2](#2-layanan-apache2)
